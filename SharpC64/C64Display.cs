@@ -1,11 +1,11 @@
 #define NSCANLINE
 
 using System;
-using System.Collections.Generic;
-using System.Text;
-using SdlDotNet;
 using System.Drawing;
 using System.Diagnostics;
+using SdlDotNet.Input;
+using SdlDotNet.Graphics;
+using SdlDotNet.Core;
 
 namespace SharpC64
 {

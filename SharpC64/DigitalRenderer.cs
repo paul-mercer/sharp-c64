@@ -4,10 +4,7 @@
 // TODO: Test FIXPOINT.  This is currently untested, but does compile
 
 using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Runtime.InteropServices;
-using SdlDotNet;
+using SdlDotNet.Audio;
 //using SGC.SDL;
 
 namespace SharpC64

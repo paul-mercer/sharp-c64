@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Text;
-
 namespace SharpC64
 {
     // States for addressing modes/operations (Frodo SC)

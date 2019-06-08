@@ -9,7 +9,6 @@
 #pragma warning disable 0162
 
 using System;
-using System.Collections.Generic;
 using System.Text;
 
 namespace SharpC64

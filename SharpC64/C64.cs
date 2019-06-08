@@ -1,11 +1,9 @@
 using System;
-using System.Collections.Generic;
-using System.Text;
 using System.IO;
 using System.Threading;
 using System.Diagnostics;
-using SdlDotNet;
 using SGC;
+using SdlDotNet.Core;
 
 namespace SharpC64
 {

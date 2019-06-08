@@ -1,8 +1,5 @@
 using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Runtime.InteropServices;
-using System.Diagnostics;
 
 /*
  *  CPUC64_SC.cpp - Single-cycle 6510 (C64) emulation
